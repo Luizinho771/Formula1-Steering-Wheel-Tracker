@@ -1,4 +1,2 @@
-    # List of files and directories to ignore
-    
-    media/output.avi
-    media/v2.mp4
+media/v2.mp4
+media/output.avi
