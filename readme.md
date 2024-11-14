@@ -18,3 +18,6 @@ O sistema calculará a rotação do volante em relação a um eixo fixo em cada 
 
 ### e. Plotagem de Dados
 Os dados de ângulo do volante serão plotados em um gráfico, com o eixo X representando o tempo e o eixo Y, o ângulo do volante.
+
+# Link para video original
+[Lando Norris’ Pole Lap | 2024 Spanish Grand Prix | Pirelli](https://www.youtube.com/watch?v=pY0XNHVU-b0&t=6s&ab_channel=FORMULA1)
